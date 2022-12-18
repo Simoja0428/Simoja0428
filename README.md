@@ -1,7 +1,7 @@
 - 👋 Hi, I’m - Jacob Simonek
-- 👀 I’m interested in - Learning New Things! Feel free to email me if you have anything of interest.
-- 🌱 I’m currently learning - Software Development
-- 💞️ I’m looking to collaborate on - Feel free to check out my tutorials.
+- 👀 I’m interested in - Looking for jobs and new opportunities to grow as a developer.
+- 🌱 I’m currently learning - NEW GRADUATE
+- 💞️ I’m looking to collaborate on - Web Development Projects
 - 📫 How to reach me - Email: jsimonek@carthage.edu
 
 <!---
